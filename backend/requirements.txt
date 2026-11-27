@@ -1,0 +1,10 @@
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.34
+pyjwt==2.15.1
+passlib[bcrypt]==1.9.5
+bcrypt==5.0.0
+motor==3.7.1
+pymongo==4.20.2
+pytest==9.2.0
+httpx==0.28.1
